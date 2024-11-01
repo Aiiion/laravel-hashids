@@ -16,7 +16,7 @@
         "php": "^8.2",
         "graham-campbell/manager": "^5.0",
         "hashids/hashids": "^5.0",
-        "illuminate/contracts": "^11.0",
+        "laravel/framework": "^11.0",
         "illuminate/support": "^11.0"
     },
     "require-dev": {
